@@ -8,7 +8,7 @@ export default {
 }
 </script>
 
-<style>
+<style parsed>
     h1 {
         text-align: center;
     }
